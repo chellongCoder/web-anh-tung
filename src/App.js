@@ -120,7 +120,7 @@ class App extends Component {
             src={scan}
             alt="price"
           />
-          <div>Số lượt quét :</div>
+          <div>Số lượt truy cập :</div>
           <div style={{ color: "#36bc9a", marginLeft: 10 }}>
             {this.state.scan}
           </div>
